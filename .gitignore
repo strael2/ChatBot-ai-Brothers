@@ -1,0 +1,23 @@
+# Apenas arquivos env
+.env
+
+# Arquivos gerados pelo macOS
+.DS_Store
+
+# Diretórios específicos do macOS
+.AppleDouble
+.LSOverride
+
+# Thumbnails gerados pelo Finder
+._*
+
+# Arquivos de metadados do macOS
+.Spotlight-V100
+.Trashes
+
+# Arquivos temporários criados pelo macOS
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
